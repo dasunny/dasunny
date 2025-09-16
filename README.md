@@ -21,11 +21,11 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dasunny&show_icons=true&theme=radical" alt="yourusername's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunny&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunny&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -38,9 +38,9 @@
 
 <!-- Connect -->
 ### 🌐 Connect with Me
-[![[LinkedIn](https://www.linkedin.com/in/dawson-fromm-492115363/)](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter (TBD)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio (TBD)](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox)](https://yourportfolio.com)
-[![dawson.fromm.dev.@gmail.com](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dawson-fromm-492115363/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](TBDTwitter)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox)](TBDPortfolio.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:dawson.fromm.dev@gmail.com)
 
 ---
