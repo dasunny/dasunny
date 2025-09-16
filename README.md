@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- Intro Section -->
+<h1 align="center">Hi! I'm Dawson Fromm</h1>
+<h3 align="center">A CS student currently enrolled at Old Dominion University </h3>
 
-<!--
-**dasunny/dasunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Quick Bio -->
+- 🔭 I’m currently working on **[BCSC and MSCS (through ODU's Linked Program)]**
+- 🌱 I’m currently learning **[Java, Python, SQL]**
+- 📫 How to reach me: **[dawson.fromm.dev@gmail.com]**
+- ⚡ Hobbies: **[I enjoy watching and playing soccer (GGMU). I'm also a bit of a competitive gamer (OW, Valorant)]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Tech Stack -->
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Featured Projects -->
+### 🚀 Featured Projects
+- 🔹 [**TBD**](https://github.com/yourusername/project) – <!--Description of Project Here-->
+- 🔹 [**Another TBD**](https://github.com/yourusername/project) – <!--Description of Project Here-->
+---
+
+<!-- Connect -->
+### 🌐 Connect with Me
+[![[LinkedIn](https://www.linkedin.com/in/dawson-fromm-492115363/)](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Twitter (TBD)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio (TBD)](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox)](https://yourportfolio.com)
+[![dawson.fromm.dev.@gmail.com](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
