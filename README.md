@@ -19,6 +19,7 @@
 ---
 
 <!-- GitHub Stats -->
+<!-- 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dasunny&show_icons=true&theme=radical" alt="yourusername's GitHub stats" />
@@ -29,7 +30,7 @@
 </p>
 
 ---
-
+-->
 <!-- Featured Projects -->
 ### 🚀 Featured Projects
 - 🔹 [**TBD**](https://github.com/yourusername/project) – <!--Description of Project Here-->
