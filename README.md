@@ -33,7 +33,7 @@
 -->
 <!-- Featured Projects -->
 ### 🚀 Featured Projects
-- 🔹 [**TBD**](https://github.com/yourusername/project) – <!--Description of Project Here-->
+[- 🔹 [**TBD**](https://github.com/yourusername/project) – <!--Description of Project Here-->](https://github.com/dasunny/datathon2025)
 - 🔹 [**Another TBD**](https://github.com/yourusername/project) – <!--Description of Project Here-->
 ---
 
@@ -41,7 +41,6 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dawson-fromm-492115363/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](TBDTwitter)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox)](TBDPortfolio.com)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:dawson.fromm.dev@gmail.com)
 
 ---
