@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Java, Python, and SQL**  
 - 💡 Interests: **AI/ML, Data Visualization, and Software Engineering**  
 - 📫 Reach me at **[dawson.fromm.dev@gmail.com](mailto:dawson.fromm.dev@gmail.com)**  
-- ⚽ Fun facts: I'm a huge Manchester United fan and a competitive gamer (OW, Valorant)
+- ⚽ Fun facts: I'm a huge Manchester United fan and a bit of a competitive gamer (OW, Valorant)
 
 ---
 
