@@ -1,5 +1,5 @@
 <!-- Intro Section -->
-<h1 align="center">Hi! I'm Dawson Fromm 👋</h1>
+<h1 align="center">Hi! I'm Dawson Fromm
 <h3 align="center">Computer Science Student at Old Dominion University</h3>
 
 <!-- Quick Bio -->
