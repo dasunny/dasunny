@@ -1,5 +1,5 @@
 <!-- Intro Section -->
-<h1 align="center">Hi! I'm Dawson Fromm
+<h1 align="center">Hi! I'm Dawson Fromm</h1>
 <h3 align="center">Computer Science Student at Old Dominion University</h3>
 
 <!-- Quick Bio -->
@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Java, Python, and SQL**  
 - 💡 Interests: **AI/ML, Data Visualization, and Software Engineering**  
 - 📫 Reach me at **[dawson.fromm.dev@gmail.com](mailto:dawson.fromm.dev@gmail.com)**  
-- ⚽ Fun facts: I'm a huge Manchester United fan and a bit of a competitive gamer (OW, Valorant)
+- ⚽ Fun facts: Huge Manchester United fan and a bit of a competitive gamer (OW, Valorant)
 
 ---
 
@@ -34,21 +34,12 @@
 
 ---
 
-#### 🧱 [Dungeon Stroll – Object-Oriented Design Project](https://github.com/dasunny/dungeon-stroll)
-*A text-based adventure game built in Java*  
+#### 🛠️ [SQL Join Visualizer (in progress) – Join Behavior Tool](https://github.com/dasunny/sql-join-visualizer)
+*An education tool to help build a conceptual understanding of SQL Joins*  
 
-- Demonstrates strong **OOP principles** (inheritance, composition, polymorphism)  
-- Implements file I/O for dungeon generation, monster encounters, and player state  
-- Developed with clean architecture and **unit testing** for modular design
-
----
-
-#### 🎮 [Esports League Management System](https://github.com/dasunny/esports-league)
-*Data-driven Java application for managing organizations, teams, and players*  
-
-- Implemented **sorting and searching algorithms** (bubble, insertion, merge, binary)  
-- Performed runtime comparisons and exported results to formatted files  
-- Built menu-driven interface with data persistence and statistics tracking
+- Developing an interactive tool to visualize and compare SQL join operations (INNER, LEFT, RIGHT, FULL) on example datasets
+- Experimenting with query execution and relational data behavior to build intuition around joins and table relationships
+- Working with **SQL**, **JavaScript**, and **DuckDB (WASM)** to explore lightweight, browser-based database processing
 
 ---
 
